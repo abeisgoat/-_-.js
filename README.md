@@ -1,6 +1,6 @@
 # ಠ_ಠ.js
 
-Wraps `console.warn` with a more appropriately judgemental name.
+Replaces `console.log` with less-vague name to clearly indicate looking at something with a judgemental face.
 
 ```html
 <script src="ಠ_ಠ.js"></script>
