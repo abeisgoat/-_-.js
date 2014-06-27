@@ -13,7 +13,7 @@ Replaces `console.warn` with less-vague name to clearly indicate looking at some
 
 ## Browser Compatibility
 
-Should be good for [any modern browser](https://developer.mozilla.org/en-US/docs/Web/API/console.warn): Chrome/Opera/Safari edge, Firefox 4.0+ and Internet Explorer 8+.
+Idk
 
 ## License
 
