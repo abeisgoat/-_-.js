@@ -1,19 +1,19 @@
 # ಠ_ಠ.js
 
-Replaces `console.log` with less-vague name to clearly indicate *looking* into a variable.
+Wraps `console.warn` with a more appropriately judgemental name.
 
 ```html
 <script src="ಠ_ಠ.js"></script>
 <script>
   var user = "Tim";
   ಠ_ಠ(user);
-  // Logs "Tim" to console.
+  // Logs "Tim" to console as a warning.
 </script>
 ```
 
 ## Browser Compatibility
 
-Idk.
+Should be good for [any modern browser](https://developer.mozilla.org/en-US/docs/Web/API/console.warn): Chrome/Opera/Safari edge, Firefox 4.0+ and Internet Explorer 8+.
 
 ## License
 
