@@ -2,7 +2,7 @@
 
 Replaces `console.log` with less-vague name to clearly indicate *looking* into a variable.
 
-```js
+```html
 <script src="ಠ_ಠ.js"></script>
 <script>
   user = "Tim";
