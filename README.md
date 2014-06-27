@@ -17,4 +17,4 @@ Idk.
 
 ## License
 
-Idk.
+Idk, MIT, I guess.
