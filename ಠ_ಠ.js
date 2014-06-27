@@ -5,4 +5,4 @@
   } else {
     self['ಠ_ಠ'] = function () {}
   }
-}(typeof window !== 'undifined'? window : typeof global !== 'undefined' ? global : self));
+}(typeof window !== 'undefined'? window : typeof global !== 'undefined' ? global : self));
