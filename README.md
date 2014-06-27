@@ -10,3 +10,11 @@ Replaces `console.log` with less-vague name to clearly indicate *looking* into a
   // Logs "Tim" to console.
 </script>
 ```
+
+## Browser Compatibility
+
+Idk.
+
+## License
+
+Idk.
