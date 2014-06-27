@@ -5,7 +5,7 @@ Replaces `console.log` with less-vague name to clearly indicate *looking* into a
 ```html
 <script src="ಠ_ಠ.js"></script>
 <script>
-  user = "Tim";
+  var user = "Tim";
   ಠ_ಠ(user);
   // Logs "Tim" to console.
 </script>
