@@ -5,9 +5,9 @@ Replaces `console.warn` with less-vague name to clearly indicate looking at some
 ```html
 <script src="ಠ_ಠ.js"></script>
 <script>
-  var warn = "Damnit, Tim, not again";
+  var warn = "Damn it Tim, not again";
   ಠ_ಠ(warn);
-  // Logs "Damnit, Tim, not again" to console as a warning.
+  // Logs "Damn it Tim, not again" to console as a warning.
 </script>
 ```
 
